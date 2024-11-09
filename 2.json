@@ -3,7 +3,7 @@
   "description": "A semi-fungible token",
   "properties": {
     "price": 3,
-    "type": "Fungible",
+    "type": "SemiFungible",
     "typeCode": 1
   }
 }
