@@ -1,0 +1,9 @@
+{
+  "name": "NonFungible1",
+  "description": "Another nonfungible token",
+  "properties": {
+    "price": 1,
+    "type": "NonFungible",
+    "typeCode": 2
+  }
+}
