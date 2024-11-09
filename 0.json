@@ -1,0 +1,9 @@
+{
+  "name": "Fungible1",
+  "description": "A fungible token",
+  "properties": {
+    "price": 1,
+    "type": "Fungible",
+    "typeCode": 0
+  }
+}
