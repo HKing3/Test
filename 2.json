@@ -1,0 +1,9 @@
+{
+  "name": "SemiFungible1",
+  "description": "A semi-fungible token",
+  "properties": {
+    "price": 3,
+    "type": "Fungible",
+    "typeCode": 1
+  }
+}
